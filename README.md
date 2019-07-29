@@ -1,2 +1,2 @@
 # Sched
-Java
+Java program I'm making
