@@ -1,2 +1,2 @@
 # Sched
-Java program I'm making
+Java program I'm making to schedule stuff
