@@ -1,11 +1,7 @@
 package test;
 
 import java.util.*;
-import java.io.File;
-import java.io.OutputStream;
-import java.io.InputStream;
-import java.io.FileOutputStream;
-import java.io.FileInputStream;
+import java.io.*;
 
 public class RegistrationInfo
 {
